@@ -1,12 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    Start coding here
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry Form</title>
+</head>
+<body>
+    <div>
+    
+
+        <form action="http://search.php" method="post" target="_blank">
+            <fieldset>
+                <legend>Enquiry Form</legend>
+                <table>
+                    <tr>
+                        <td><label for="m_name">Name</label></td>
+                        <td><input type="text" id="m_name" name="name"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_mail">Email</label></td>
+                        <td><input type="text" id="m_mail" name="mail"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_age">Age</label></td>
+                        <td><input type="text" size="3" maxlength="3"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_country">Country</label></td>
+                        <td><input type="text" id="m_country" value="India" readonly></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_pass">Password</label></td>
+                        <td><input type="password" id="m_pss" name="m_pass"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_resume">Resume</label></td>
+                        <td><input type="file" id="m_file" placeholder="Choose file"></td>
+                    </tr>
+
+                    <tr>
+                        <td>Hobbies</td>
+                        <td><input type="checkbox" checked name="cricket" id="crc"><label for="crc">Cricket</label>
+                        <input type="checkbox"  name="football" id="ftb"><label for="ftb">Football</label></td>
+                    </tr>
+
+                    <tr>
+                        <td>Gender</td>
+                        <td><input type="radio" name="sex" id="ml"><label for="ml">Male</label>
+                        <input type="radio" name="sex" id="fl"><label for="fl">Female</label></td>
+
+                    </tr>
+                    <tr>
+                        <td><label for="m_city">City</label></td>
+                        <td>
+                            <select  id="m_city">
+                                <option value="" disabled selected>---Choose City---</option>
+                                <optgroup label="India">
+                                    <option value="ddn">dehradun</option>
+                                    <option value="mp">mdhyaPradsh</option>
+                                    <option value="dli">Delhi</option>
+                                    <option value="mb">mumbai</option>
+                                    <option value="kvp">kashipur</option>
+                                </optgroup>
+                                <optgroup label="US">
+                                    <option value="NY">New York</option>
+                                    <option value="LA">Los Angeles</option>
+                                    <option value="CGO">Chicago</option>
+                                    <option value="FL">Florida</option>
+                                    <option value="NC">Nort Carolina</option>
+                                    <option value="WDC">Washington</option>
+                                </optgroup>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="m_address" >Address</label></td>
+                        <td><textarea name="m_address" id="m_address" cols="30" rows="4"></textarea></td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td>
+                            <button type="submit">Submit</button>
+                            <button type="reset">Reset</button>
+                        </td>
+                    </tr>
+                    <tr><button type="submit"></button></tr>
+
+                </table>
+            </fieldset>
+        </form>
+
+    </div>
+
+
+    
+</body>
 </html>
