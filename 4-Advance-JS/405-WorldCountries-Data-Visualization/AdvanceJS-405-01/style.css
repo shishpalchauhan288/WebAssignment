@@ -1,0 +1,7 @@
+.tablediv{
+    background-color: darkgoldenrod;
+    display: flex;
+    height: 40px;
+    width: 91%;
+    border: 2px solid;
+}

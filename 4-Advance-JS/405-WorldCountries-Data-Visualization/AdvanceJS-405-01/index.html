@@ -5,8 +5,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
   </head>
   <body>
-    Start your code here
+    <header id="countries">
+      <h2>
+        world countries data
+      </h2>
+      <h3>
+        currently we have 250 countries 
+      </h3>
+    </header>
+
+    <main>
+        <div class="wrapper">
+          <div class="graph-button">
+            <button class="population">population</button>
+            <button class="languages">languages</button>
+          </div>
+          <h4 class="graph-title"></h4>
+          <div class="graph">
+            <div class="graph-wrapper" id="state"></div>
+          </div>
+        </div>
+    </main>
+    <table id="tableid">
+      <tr>
+        <td>
+          world Population
+        </td>
+        <td>
+          <div class="tablediv" style="width: 100%;"></div>
+        </td>
+        <td>
+          7693165599
+        </td>
+      </tr>
+
+    </table>
+
+    <table id="populationtable">
+
+    </table>
+
+    <script src="countries_data.js"></script>
   </body>
 </html>

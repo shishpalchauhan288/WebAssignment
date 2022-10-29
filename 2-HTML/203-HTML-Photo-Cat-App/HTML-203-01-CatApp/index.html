@@ -5,8 +5,89 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+    /* *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    } */
+
+    h2{
+        margin-top: 14px;
+        margin-left: 10px;
+    }
+    h3{
+        margin-top: 14px;
+        margin-left: 10px;
+    }
+    img{
+        margin-right: 200px;
+    }
+
+
+    </style>
 </head>
 <body>
-    
+    <h1>CatPhotoApp</h1>
+    <h3>Cat Photos</h3><br>
+    click here to see more cats images  <a href="">click me</a>
+    <img src="https://images.pexels.com/photos/2558605/pexels-photo-2558605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+     width="300px" height="300px" alt="">
+    <h2>Cat list</h2>
+    <h3>Things Cat Loves:</h3>
+    <ul>
+        <li>Pizaa</li>
+        <li>Burger</li>
+        <li>Dosa</li>
+        <img src="https://images.pexels.com/photos/5792329/pexels-photo-5792329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+        width="300px" height="220px"
+        alt="img"><br>
+        Cat Eat and love these things
+    </ul>
+    <h3>Top 3 Things Cat Loves</h3>
+    <ol type="1">
+        <li>xyz1</li>
+        <li>xyz2</li>
+        <li>xyz3</li>
+        <img src="https://www.litter-robot.com/media/magefan_blog/2018/05/How-Many-Cats-Is-Too-Many-Cats-760x335-1.jpg" 
+        width="350px" height="220px"
+        alt="img"><br>
+         The Hybrid cat's 
+    </ol>
+    <h2>Cats Form</h2>
+    <div>
+        <form action="https://search.php" method="post" target="_blank">
+            <fieldset>
+                <legend>Your Cat's Gender</legend>
+               <table>
+                <tr>
+                    
+                    <td><input type="radio" name="sex" id="ml"><label for="ml">MaleCat</label>
+                    <input type="radio" name="sex" id="fl"><label for="fl">FemaleCat</label></td>
+
+                </tr>
+               </table>
+            </fieldset>
+
+
+            <fieldset>
+                <legend>Where Your Cat lives OutDoor Or Indoor</legend>
+               <table>
+                <tr>
+                    
+                    <td><input type="checkbox" name="sex" id="ml"><label for="ml">Outdoor</label>
+                    <input type="checkbox" name="sex" id="fl"><label for="fl">Indoor</label>
+                    <td><input type="checkbox" name="sex" id="ml"><label for="ml">Anywhere</label>
+
+                </td>
+
+                </tr>
+
+
+               </table>
+            </fieldset>
+
+        </form>
+    </div>
 </body>
 </html>
