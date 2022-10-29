@@ -1,1 +1,85 @@
 /* start your css here */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-image: url("https://images.pexels.com/photos/6239866/pexels-photo-6239866.jpeg?auto=compress&cs=tinysrgb&w=600");
+font-family:Arial, Helvetica, sans-serif ;
+/* font-weight: bold; */
+list-style: none;
+}
+
+.main{
+    width: 430px;
+    height: 530px;
+    color: black;
+    background-color: burlywood;
+    margin: auto;
+    margin-top: 60px;
+}
+.hcc{
+    margin-left:  80px;
+    margin-bottom: 8px;
+    padding-top: 20px;
+
+
+}
+
+.Est{
+    margin-left: 180px;
+}
+
+.redline1{
+    width: 400px;
+    height: 3px;
+    /* color: blueviolet; */
+    background-color: brown;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.coffee01{
+    margin-left: 180px;
+    margin-top: 20px;
+
+}
+
+#fafa{
+    margin-left: 30px;
+    /* font-size: large; */
+    /* font-weight: bold; */
+    margin-top: 10px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    
+}
+
+.items{
+    margin-left: 15px;
+}
+.price{margin-right: 15px;}
+
+.foot{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.anchor{
+    margin-left: 50px;
+    margin-bottom: 40px;
+    color: black;
+
+}
+
+.pfoot{
+    margin-left: 0px;
+    padding: 10px;
+
+}
+
+
