@@ -1,1 +1,75 @@
 /* start your styling here  */
+
+body{
+    background: #ffffff;
+}
+
+.calc-contain{
+    width: 300px;
+    height: 400px;
+    margin: 100px auto;
+    background: #196083;
+    box-shadow: 2px 4px 9px;
+    margin-top: 20px;
+}
+
+
+.output{
+    width: 250px;
+    margin: 30px ;
+    background-color: brown;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+h2{
+    position: fixed;
+    top: 13.9%;
+    top: 47%;
+    color: #fff;
+    letter-spacing: 1.9px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: inter, sans-serif;
+    font-size: 10px;
+}
+#display{
+    /* position: fixed;
+    top: none; */
+    border:none;
+    outline: none;
+    background: #164e67;
+    color: black;
+    text-align: right;
+    font-weight: 700;
+    padding: 15px;
+    /* margin: ; */
+    background: #fff;
+    border-radius: 4px;
+}
+.button{
+    margin: 17px 0 0 5px;
+    width: 42px;
+    height: 42px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    background: #164e67;
+    display: inline-block;
+    color:  #fff;
+}
+
+.button:hover{
+    box-shadow: 0 0 2px #ffffff, 0 0 2px #ffffff;
+    background: #fff;
+}
+
+.clearButton{
+    background: #091921;
+}
+.numbutton{
+    background: #fbff03;
+    color: #091921;
+}
