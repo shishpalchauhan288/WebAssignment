@@ -1,7 +1,39 @@
-*{
+body{
     box-sizing: border-box;
+    margin: 0;
 }
 
-body{
-    font-family: Verdan,  sans-serif;
+.slide>img{
+    width: 100%;
+
+}
+
+.slide-container{
+    position: relative;
+    border: 2px solid;
+    width: 100%;
+}
+
+.arrow{
+    position: absolute;
+    cursor: pointer;
+    background-color: rgba(205, 189, 189, 0.447);
+    padding: 8px;
+    border-radius: 30%;
+    padding: 8px;
+    /* top: 45%; */
+
+}
+
+.next{
+    right: 10px;
+
+}
+
+.prev{
+    left: 10px;
+}
+
+.slide{
+    display: none;
 }
