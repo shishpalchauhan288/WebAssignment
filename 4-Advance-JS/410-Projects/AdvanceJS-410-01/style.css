@@ -1,0 +1,14 @@
+#result{
+    border: 2px solid black;
+    height: 50px;
+}
+
+img{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+body{
+    background-color: rgba(130, green, blue, alpha);
+}
