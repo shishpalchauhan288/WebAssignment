@@ -40,7 +40,7 @@ How to use this repository
 | 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  | https://shishpalchauhan288.github.io/WebAssignment/3-CSS/302-CSS-Building-Cafe-Menu/CSS-302-01/index.html           |
 | 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |  https://shishpalchauhan288.github.io/WebAssignment/           |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 | https://shishpalchauhan288.github.io/WebAssignment/            |
-| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 | https://shishpalchauhan288.github.io/WebAssignment/            |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-02]                 | https://shishpalchauhan288.github.io/WebAssignment/ |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-03]                 | https://shishpalchauhan288.github.io/WebAssignment/            |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-04]                 |https://shishpalchauhan288.github.io/WebAssignment/             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)    [CSS-305-01]                      | https://shishpalchauhan288.github.io/WebAssignment/            |
@@ -68,8 +68,8 @@ How to use this repository
 | 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)  [AdvanceJS-401-03]             |   https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-03/index.html   |
 | 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-01]             |    https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-01/402-02.html         |
 | 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)  [AdvanceJS-402-02]             |   https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-03/402-03.html          |
-| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-01]           |    https://shishpalchauhan288.github.io/WebAssignment/         |
-| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-02]           |  https://shishpalchauhan288.github.io/WebAssignment/           |
+| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-01]           |    https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/403-event-listeners/AdvanceJS-403-01/403-01.html         |
+| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-02]           |  https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/403-event-listeners/AdvanceJS-403-02/403-02.HTML           |
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)       [AdvanceJS-403-03]           |    https://shishpalchauhan288.github.io/WebAssignment/         |
 | 4     | JS    | [MINI-PROJECT](./4-Advance-JS/404-Mini-Project-Solar%20System/)   [AdvanceJS-404-01]       |     https://shishpalchauhan288.github.io/WebAssignment/        |
 | 5     | JS    | [WORLD-COUNTRIES](./4-Advance-JS/405-WorldCountries-Data-Visualization/) [AdvanceJS-405-01] |     https://shishpalchauhan288.github.io/WebAssignment/        |
