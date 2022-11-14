@@ -40,5 +40,5 @@ const displaySearchResults=(searchQuery="") =>{
     })
 }
 
-document.getElementById("search-form").addEventListener("keypup",
+document.getElementById("search-form").addEventListener("keyup",
 autosearch);
