@@ -1,0 +1,10 @@
+.suggested{
+    display: inline-block;
+  border: 2px solid rgb(20, 22, 17);
+  margin-right: 7px;
+  margin-top: 5px;
+  padding: 2px 10px;
+  background: rgb(38, 2, 237);
+  color: aliceblue;
+  border-radius: 7px;
+}
