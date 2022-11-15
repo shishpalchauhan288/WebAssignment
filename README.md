@@ -80,6 +80,6 @@ How to use this repository
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-01]                    | https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-01/index.html         |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-02]                    |  https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-02/410-02.html           |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-03]                    |     https://shishpalchauhan288.github.io/WebAssignment/        |
-| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-04]                    |    https://shishpalchauhan288.github.io/WebAssignment/         |
+| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-04]                    |    https://shishpalchauhan288.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-04/410-04.HTML        |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)             [AdvanceJS-410-05]                    |    https://shishpalchauhan288.github.io/WebAssignment/         |
 | 11    | JS    | [CRYPTO-VIEW](./4-Advance-JS/411-crypto-view/)         [AdvanceJS-411-01]                  |    https://shishpalchauhan288.github.io/WebAssignment/        |
